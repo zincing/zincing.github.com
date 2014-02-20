@@ -41,11 +41,11 @@
   </div>
   
   <div class="span4">
-    <h4>发布于</h4>
+    <h5>发布时间</h5>
     <div class="date"><span>{{ page.date | date:"%Y-%m-%d %H:%M:%S" }}</span></div>
-
+    <br /><br />
   {% unless page.tags == empty %}
-    <h4>标签云</h4>
+    <h5>标签云</h5>
     <ul class="tag_box">
     {% assign tags_list = page.tags %}
     {% include JB/tags_list %}
