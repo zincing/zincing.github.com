@@ -1,6 +1,6 @@
 ---
-title: Hello ! 
 layout: page
+title: 推荐文章
 ---
 {% include JB/setup %}
 
