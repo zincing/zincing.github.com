@@ -1,8 +1,3 @@
-<style type="text/css">
-	html,body{
-		font-family:"Microsoft YaHei";
-	}
-</style>
 # Zincing's Blog #
 
 这里是我的博客代码，使用<http://jekyllbootstrap.com>搭建。
