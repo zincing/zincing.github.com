@@ -84,7 +84,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : zincing
     livefyre :
       site_id : zincing
     intensedebate :
