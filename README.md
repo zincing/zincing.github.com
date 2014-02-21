@@ -13,6 +13,7 @@
 #### 2014.02.21 ####
 - 调整文章中 code 的样式，参考：<a href="https://www.zybuluo.com" target="_blank">https://www.zybuluo.com</a>
 - 添加了代码高亮，使用 <a href="http://prismjs.com/" target="_blank">http://prismjs.com/</a>
+- 添加 google analytics 代码
 
 #### 2014.02.20 ####
 - 简化了博客的页面
