@@ -1,3 +1,6 @@
+<!-- prism code highlight -->
+<link rel="stylesheet" type="text/css" href="/assets/libs/prism.css">
+
 <div class="page-header">
   <h1>{{ page.title }} <small>{{ page.tagline }}</small></h1>
 </div>
@@ -40,7 +43,7 @@
     <!-- disqus Comment END -->
   </div>
   
-  <div class="span4">
+  <div class="span4" style="position:fixed;">
     <h5>发布时间</h5>
     <div class="date"><span>{{ page.date | date:"%Y-%m-%d %H:%M:%S" }}</span></div>
     <br /><br />
@@ -53,3 +56,6 @@
   {% endunless %}  
   </div>
 </div>
+
+<!-- prism code highlight -->
+<script type="text/javascript" src="/assets/libs/prism.js"></script>
